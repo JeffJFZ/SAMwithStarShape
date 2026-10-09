@@ -3,4 +3,4 @@ We propose a label-efficient automated pipeline that trains only an object detec
 
 ## Reference:
 
-Shoujun Huang, Junjie Liu, Shousheng Luo, Huafeng Xie, Jing Yuan, Dexing Kong, Jianfeng Zhang. From automatic detection to segmentation: A label-efficient SAM pipeline with feature-guided star-shape priors for breast ultrasound. Biomedical Signal Processing and Control, DOI: .
+Shoujun Huang, Junjie Liu, Shousheng Luo, Huafeng Xie, Jing Yuan, Dexing Kong, Jianfeng Zhang. From automatic detection to segmentation: A label-efficient SAM pipeline with feature-guided star-shape priors for breast ultrasound. Biomedical Signal Processing and Control, URL: <https://doi.org/10.1016/j.bspc.2026.111604>.
